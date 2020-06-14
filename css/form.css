@@ -1,0 +1,43 @@
+.header{
+	background-color: green;
+	min-height: 80px;
+}
+.wrapper{
+	overflow: hidden;
+
+}
+.blog{
+	background-color: blue;
+	min-height: 150px;
+	width: 70%;
+	float: left;
+
+}
+.contact{
+	background-color: orange;
+	min-height: 150px;
+	width: 25%;
+	float: right;
+
+}
+.footer{
+	background-color: red;
+	min-height: 80px;
+}
+aside{
+	
+	margin: 5px solid blue;
+	min-height: 150px;
+	width: 70%;
+
+}
+
+h1{ font-size: 40px;
+
+}
+.wrapper{
+	clear: right;
+}
+.image{
+	clear: right;
+}
